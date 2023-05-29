@@ -1,3 +1,5 @@
+https://blog.azardata.net/how-to-setup-v2ray-ws-tls-cdn/
+<hr>
 # X-UI
 简体中文|[ENGLISH](./README_EN.md)  
 
