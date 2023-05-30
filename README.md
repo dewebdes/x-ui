@@ -1,4 +1,11 @@
 https://blog.azardata.net/how-to-setup-v2ray-ws-tls-cdn/
+<br>
+https://github.com/2dust/v2rayN
+<br>
+https://github.com/2dust/v2rayNG/releases
+<br>
+https://github.com/netchx/netch
+
 <hr>
 # X-UI
 简体中文|[ENGLISH](./README_EN.md)  
